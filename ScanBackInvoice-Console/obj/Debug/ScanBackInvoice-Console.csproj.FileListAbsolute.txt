@@ -1,0 +1,40 @@
+C:\Users\Piaw\Documents\Visual Studio 2013\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.exe.config
+C:\Users\Piaw\Documents\Visual Studio 2013\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.exe
+C:\Users\Piaw\Documents\Visual Studio 2013\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.pdb
+C:\Users\Piaw\Documents\Visual Studio 2013\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\BarcodeLib.BarcodeReader.dll
+C:\Users\Piaw\Documents\Visual Studio 2013\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\itextsharp.dll
+C:\Users\Piaw\Documents\Visual Studio 2013\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.exe
+C:\Users\Piaw\Documents\Visual Studio 2013\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.pdb
+D:\Personal\Sourcecode\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.exe.config
+D:\Personal\Sourcecode\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.exe
+D:\Personal\Sourcecode\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.pdb
+D:\Personal\Sourcecode\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.exe
+D:\Personal\Sourcecode\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.pdb
+D:\Personal\Sourcecode\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\BarcodeLib.BarcodeReader.dll
+D:\Personal\Sourcecode\Projects\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\itextsharp.dll
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.exe.config
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.exe
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.pdb
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.exe
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.pdb
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.csprojResolveAssemblyReference.cache
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.exe.config
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.exe
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.pdb
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.exe
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.pdb
+C:\Users\Piaw\Desktop\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.csprojResolveAssemblyReference.cache
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.exe.config
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.exe
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\ScanBackInvoice-Console.pdb
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\itextsharp.dll
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\Spire.Barcode.dll
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\Spire.License.dll
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\itextsharp.xml
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\Spire.Barcode.xml
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\bin\Debug\Spire.License.xml
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.csproj.CoreCompileInputs.cache
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.csproj.CopyComplete
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.exe
+C:\SourceCode\ScanBackInvoice-Console - NAV\ScanBackInvoice-Console\obj\Debug\ScanBackInvoice-Console.pdb
